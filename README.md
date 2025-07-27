@@ -63,6 +63,7 @@
   ```bash 
     cd backend  
     ./mvnw spring-boot:run  
+    
 
 3. **Frontend Setup**:
 
@@ -70,5 +71,6 @@
 cd frontend  
 npm install  
 npm run dev  
+
 
 4. **Access the app at** : http://localhost:3000

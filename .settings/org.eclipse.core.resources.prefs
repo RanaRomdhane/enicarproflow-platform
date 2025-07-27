@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/example/demo/controller/DocumentController.java=UTF-8
+encoding//src/main/java/com/example/demo/controller/LoginController.java=UTF-8
+encoding//src/main/java/com/example/demo/entity/Affectation.java=UTF-8
+encoding//src/main/java/com/example/demo/entity/Etudiant.java=UTF-8
+encoding//src/main/java/com/example/demo/entity/Sujet.java=UTF-8
+encoding//src/main/java/com/example/demo/services/DocumentService.java=UTF-8
+encoding//src/main/java/com/example/demo/services/StageService.java=UTF-8
+encoding//src/main/java/com/example/demo/services/SujetService.java=UTF-8
